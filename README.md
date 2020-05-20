@@ -1,4 +1,4 @@
-# eventstore
+# eventstore 
 
 Simple Knative service persisting Cloud Events to Cloud Firestore collection. Useful in Knative Events demos
 
