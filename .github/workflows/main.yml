@@ -21,8 +21,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GCLOUD_PROJECT }}
-  RUN_REGION: us-central1
-  SERVICE_NAME: maxprime
+  SERVICE_NAME: eventstore
 
 jobs:
   setup-build-deploy:
